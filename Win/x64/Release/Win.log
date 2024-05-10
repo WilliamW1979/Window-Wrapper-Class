@@ -1,0 +1,17 @@
+﻿  Win.cpp
+D:\C\Win\Win\WindowText.h(74,13): error C2084: function 'void GetHWNDText(HWND,char &)' already has a body
+  (compiling source file 'Win.cpp')
+  D:\C\Win\Win\WindowText.h(20,13):
+  see previous definition of 'GetHWNDText'
+  
+D:\C\Win\Win\WindowText.h(128,13): error C2084: function 'void SetHWNDText(HWND,char)' already has a body
+  (compiling source file 'Win.cpp')
+  D:\C\Win\Win\WindowText.h(86,13):
+  see previous definition of 'SetHWNDText'
+  
+D:\C\Win\Win\Win.h(43,3): error C2144: syntax error: 'std::map<HWND,cWIN *,std::less<HWND>,std::allocator<std::pair<const HWND,cWIN *>>>' should be preceded by ';'
+  (compiling source file 'Win.cpp')
+  
+D:\C\Win\Win\Win.h(43,27): error C4430: missing type specifier - int assumed. Note: C++ does not support default-int
+  (compiling source file 'Win.cpp')
+  

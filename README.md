@@ -193,5 +193,5 @@
 >bool operator!=(const cWIN &right);
 
 <p>I don't even know why I bothered to add these, but they are operators that you can use. Not sure what use they will be, only added them just in case one day I did find a use for them.</p>
-<p>If you have any questions or concerns, please feel free to let me know. I threw this together in a few days based on an older version I wrote 15 to 20 years ago that needed updating. There is a lot more I wish to add later like Automatica Window Skinning, but for now I stuck with the basics.</p>
+<p>If you have any questions or concerns, please feel free to let me know. I threw this together in a few days based on an older version I wrote 15 to 20 years ago that needed updating. There is a lot more I wish to add later like Automatic Window Skinning, but for now I stuck with the basics and decided that since there really isn't much out there on Window Wrapping, I would share this for people to use.</p>
 <p>William Glenn Ward<br>Computer Programmer / Graphic Designer<br>WilliamW1979@netscape.net<br>GamerTag: WillWolf76<br><br>Programming C/C++ since 1998</p>

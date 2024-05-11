@@ -40,7 +40,7 @@ class cWIN
 	string sWindowName = "William Glenn Ward's Window Wrapper";
 	HACCEL hAccel = {};
 	HMENU hMenu = {};
-S	static map<HWND, cWIN*> WindowHandleMap;
+	static map<HWND, cWIN*> WindowHandleMap;
 	static deque<HWND> WindowList;
 	WindowMessages WndMessages;
 
